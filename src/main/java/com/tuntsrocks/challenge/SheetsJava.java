@@ -1,3 +1,11 @@
+/*
+ * Used links:
+ * https://developers.google.com/sheets/api/quickstart/java#prerequisites
+ * https://developers.google.com/sheets/api/guides/values
+ * https://developers.google.com/sheets/api/guides/batchupdate
+ * https://www.youtube.com/watch?v=8yJrQk9ShPg
+ */
+
 package com.tuntsrocks.challenge;
 
 import java.io.IOException;
