@@ -1,4 +1,4 @@
-# DesafioTuntsRoks
+# DesafioTuntsRocks
 # Public repository link:
 https://github.com/AugustoVieiraa/DesafioTuntsRocks
 
