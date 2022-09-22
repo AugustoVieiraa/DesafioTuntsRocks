@@ -5,10 +5,10 @@ https://github.com/AugustoVieiraa/DesafioTuntsRocks
 # Public spreadsheet link:
 https://docs.google.com/spreadsheets/d/1C01Qnkt_3ca0_CZhAf8389M2uzlV67QC9Ylvcilzxnc/edit#gid=0
 
-# To execute you can choose one of the two above ways:
+# To execute you can choose one of the two next ways:
 
 - First way:
-1. Download the .jar file challenge.jar
+1. Clone the repository in a folder you want
 2. Open a terminal
 3. Find the local where the challenge.jar file is
 4. Execute the command: java -jar challenge.jar
